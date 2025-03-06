@@ -1,6 +1,7 @@
 # putty-gl
 
-Modify the putty program to allow you to select lines on the screen.<br />
+This is putty clone project.
+Modify the putty program to allow you to select lines on the screen.
 
 # How to USE
 
